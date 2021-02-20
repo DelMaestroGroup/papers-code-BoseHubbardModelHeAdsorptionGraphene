@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4553596.svg)](https://doi.org/10.5281/zenodo.4553596)
 
 
-# Effective Two-Dimensional Bose–Hubbard Model for Helium on Graphene
+# Two-Dimensional Bose–Hubbard Model for Helium on Graphene
 [Jiangyong Yu](https://github.com/yuj120254), Ethan Lauricella, Mohamed Elsayed, Kenneth Shepherd Jr., [Nathan S. Nichols](https://github.com/nscottnichols), Todd Lombardi, Sang Wook Kim, Carlos Wexler, [Juan M. Vanegas](http://vanegaslab.org/), Taras Lakoba, Valeri N. Kotov, and [Adrian Del Maestro](https://delmaestro.org/adrian)
 
 <!-- [arXiv:1912.09947](https://arxiv.org/abs/1912.09947) -->
