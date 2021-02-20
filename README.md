@@ -44,7 +44,7 @@ Computational resources were provided by the NASA High-End Computing (HEC) Progr
 <img src="https://github.com/DelMaestroGroup/papers-code-BoseHubbardModelHeAdsorptionGraphene/blob/master/plots/He_Graphene_Potential.png" width="400px">
 
 #### Figure 05: Adsorbed 4He: z-Wavefunctions
-<img src="https://github.com/DelMaestroGroup/papers-code-BoseHubbardModelHeAdsorptionGraphene/blob/master/plots/shooting_method_rho.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-BoseHubbardModelHeAdsorptionGraphene/blob/master/plots/shooting_method_rho.png" width="400px">
 
 #### Figure 06: Adsorbed 4He: Band Structure
 <img src="https://github.com/DelMaestroGroup/papers-code-BoseHubbardModelHeAdsorptionGraphene/blob/master/plots/band_structure.svg" width="400px">
