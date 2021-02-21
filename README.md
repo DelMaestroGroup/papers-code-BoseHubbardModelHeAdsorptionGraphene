@@ -81,6 +81,9 @@ Computational resources were provided by the NASA High-End Computing (HEC) Progr
 #### Figure 17: Finite Size Scaling of V'
 <img src="https://github.com/DelMaestroGroup/papers-code-BoseHubbardModelHeAdsorptionGraphene/blob/master/plots/Vprime_QMC_fss.svg" width="400px">
 
+#### Figure 18: WKB Approximation
+<img src="https://github.com/DelMaestroGroup/papers-code-BoseHubbardModelHeAdsorptionGraphene/blob/master/plots/Tunneling.svg" width="400px">
+
 
 
 
