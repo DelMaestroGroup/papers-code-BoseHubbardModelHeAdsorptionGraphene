@@ -1,4 +1,4 @@
-<!-- [![Paper](https://img.shields.io/badge/paper-arXiv%3A1912.09947-B31B1B.svg)](https://arxiv.org/abs/1912.09947) -->
+[![Paper](https://img.shields.io/badge/paper-arXiv%3A2102.11288-B31B1B.svg)](https://arxiv.org/abs/2102.11288)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4553595.svg)](https://doi.org/10.5281/zenodo.4553595)
 
 
