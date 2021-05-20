@@ -13,10 +13,14 @@ An exciting development in the field of correlated systems is the possibility of
 ### Description
 This repository includes information, code, scripts, and data to generate the figures in a paper.
 
-### Requirements
+### Data
 The [raw data](https://github.com/DelMaestroGroup/papers-code-BoseHubbardModelHeAdsorptionGraphene/tree/master/data) in this project was generated via the various methods described in the text.  This includes quantum Monte Carlo, density functional theory, etc.  To regenerate all quantum Monte Carlo data from scratch, information on obtaining the source code can be found [here](https://code.delmaestro.org).
 
 * QMC Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4553524.svg)](https://doi.org/10.5281/zenodo.4553524)
+
+The minimal set of reduced data needed to reproduce the figures included in the manuscript is included as a compressed file in `data/QMC.tar.bz2` which should expand into a QMC directory. You should set an environment variable `HeGrapheneData` that provides an absolute path to this directory.
+
+### Requirements
 * [graphenetools-py](https://github.com/nscottnichols/graphenetools-py)
 * [pimcscripts](https://github.com/DelMaestroGroup/pimcscripts)
 * [dgutils](https://github.com/DelMaestroGroup/dgutils)
